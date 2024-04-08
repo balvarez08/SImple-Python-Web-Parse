@@ -1,2 +1,2 @@
 # SImple-Python-Web-Parse
-Simple PY script to parse data from a specific eb page
+Simple PY script that parses data from a specific web page
